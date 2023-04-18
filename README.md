@@ -6,7 +6,7 @@ available on Udemy.
 
 # What are this application's features? 
 
-This applications allows the user to add students via a menu bar, status bar, and clickable buttons. Any changes to the 
+This application allows the user to add students via a menu bar, status bar, and clickable buttons. Any changes to the 
 students are reflected in a central table widget. Students may be added, edited, searched, and deleted via the user 
 interface, with additional dialogs and windows created to allow the entry of additional information as required. 
 
